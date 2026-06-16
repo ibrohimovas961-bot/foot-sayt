@@ -1,0 +1,25 @@
+{
+    "header":{
+        "Menu":"Menyu",
+        "News":"Yangiliklar",
+        "About Us":" Biz haqimizda",
+        "Contact Us":" Biz bilan bogʻlanish",
+        "Login In":  "Tizimga kirish"
+    },
+    
+        "main": {
+            "subtitle": "Yangi ta'm ortidan",
+            "title": "Ajoyib taomlar siri",
+            "description": "Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus",
+            "button": "Menyuni ko'rish"
+        },
+        
+            "hero": {
+                "title": "Ommabop taomlar",
+                "kebab": "Barbekyu Shish kabob Shashlik",
+                "pizza": "Pitsa Pepperoni",
+                "burger": "Gamburger Klasik",
+                "french_fries": "Kartoshka fri bilan shashlik"
+            }
+    
+}

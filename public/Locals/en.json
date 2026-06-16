@@ -1,0 +1,25 @@
+{
+    "header": {
+        "Menu": "Menu",
+        "News": "News",
+        "About Us": "About Us",
+        "Contact Us": "Contact Us",
+        "Login In": "Log In"
+    },
+    
+        "main": {
+            "subtitle": "Chase the new Flavour",
+            "title": "The key to Fine dining",
+            "description": "Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus",
+            "button": "Explore Menu"
+        },
+        
+            "hero": {
+                "title": "Popular Dishes",
+                "kebab": "Barbecue Shish kebab Shashlik Skewer",
+                "pizza": "Pepperoni Pizza",
+                "burger": "Classic Hamburger",
+                "french_fries": "Shashlik with French Fries"
+            }    
+    
+}

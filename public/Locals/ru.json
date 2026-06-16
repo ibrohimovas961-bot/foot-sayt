@@ -1,0 +1,25 @@
+{
+    "header": {
+        "Menu": "Меню",
+        "News": "Новости",
+        "About Us": "О нас",
+        "Contact Us": "Контакты",
+        "Login In": "Войти"
+    },
+    
+        "main": {
+            "subtitle": "Погоня за новым вкусом",
+            "title": "Ключ к изысканной кухне",
+            "description": "Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus",
+            "button": "Исследовать меню"
+        },
+        
+            "hero": {
+                "title": "Популярные блюда",
+                "kebab": "Барбекю Шиш кебаб Шашлык",
+                "pizza": "Пицца Пепрони",
+                "burger": "Гамбургер Классический",
+                "french_fries": "Шашлык с картофелем фри"
+            }
+    
+}
