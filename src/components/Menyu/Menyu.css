@@ -1,0 +1,109 @@
+.menu-section {
+    width: 100%;
+    background-color: #ffffff;
+    padding: 60px 0 100px 0;
+}
+.menu-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.menu-main-title {
+    font-size: 38px;
+    font-weight: 700;
+    color: #a52a3a;
+    margin-bottom: 35px;
+}
+.categories-filter {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 50px;
+}
+.category-btn {
+    background-color: transparent;
+    color: #333333;
+    border: 1px solid #bc2c3d;
+    padding: 10px 24px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+.category-btn:hover {
+    background-color: rgba(165, 42, 58, 0.05);
+}
+.category-btn.active {
+    background-color: #bc2c3d;
+    color: #ffffff;
+    border-color: #bc2c3d;
+}
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 25px;
+    width: 100%;
+}
+.menu-card {
+    border: 1px solid #f0f0f0;
+    border-radius: 12px;
+    padding: 25px 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #ffffff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.menu-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+}
+.menu-img-wrapper {
+    width: 100%;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.menu-img-wrapper img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+.menu-dish-name {
+    font-size: 16px;
+    font-weight: 600;
+    color: #222222;
+    line-height: 1.4;
+    margin-bottom: 15px;
+    min-height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu-dish-price {
+    font-size: 20px;
+    font-weight: 700;
+    color: #a52a3a;
+    margin-top: auto;
+}
+@media (max-width: 1024px) {
+    .menu-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 576px) {
+    .menu-grid {
+        grid-template-columns: 1fr;
+    }
+    .categories-filter {
+        justify-content: center;
+    }
+    .menu-main-title {
+        text-align: center;
+        font-size: 30px;
+    }
+}

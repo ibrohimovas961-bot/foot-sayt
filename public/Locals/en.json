@@ -20,6 +20,20 @@
                 "pizza": "Pepperoni Pizza",
                 "burger": "Classic Hamburger",
                 "french_fries": "Shashlik with French Fries"
-            }    
+            },
+            
+                "Menyu": {
+                    "menu_title": "Our Regular Menu Pack",
+                    "cat_all": "All",
+                    "cat_shawarma": "Shawarma",
+                    "cat_turk": "Turk Kebab",
+                    "cat_hamburger": "Hamburger Kebab",
+                    "cat_doner": "Doner Kebab",
+                    "cat_shish": "Shish Kebab",
+                    "cat_pizza": "French Fries Pizza",
+                    "cat_desserts": "Desserts",
+                    "dish_name": "Barbecue Shish kebab Shashlik Skewer"
+                }
+                
     
 }

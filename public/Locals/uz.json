@@ -20,6 +20,19 @@
                 "pizza": "Pitsa Pepperoni",
                 "burger": "Gamburger Klasik",
                 "french_fries": "Kartoshka fri bilan shashlik"
-            }
-    
+            },
+            
+                "Menyu": {
+                    "menu_title": "Bizning doimiy menyu to'plamimiz",
+                    "cat_all": "Barchasi",
+                    "cat_shawarma": "Shavurma",
+                    "cat_turk": "Turk kabobi",
+                    "cat_hamburger": "Gamburger kabob",
+                    "cat_doner": "Doner kabob",
+                    "cat_shish": "Shish kabob",
+                    "cat_pizza": "Kartoshka frili pitsa",
+                    "cat_desserts": "Dessertlar",
+                    "dish_name": "Barbekyu Shish kabob Shashlik"
+                }
+            
 }
